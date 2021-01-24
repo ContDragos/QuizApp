@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="correct_text">Corect!</string>
+    <string name="incorrect_text">Incorect!</string>
+    <string name="first_score_text">0/10</string>
+    <string name="correct_toast_message">Bravo!</string>
+    <string name="incorrect_toast_message">Gresit!</string>
+
+
+    <string name="intrebare1">Rusia este cea mai mare tara din lume?</string>
+    <string name="intrebare2">Cel mai lung fluviu din lume este Amazon?</string>
+    <string name="intrebare3">Prima tara care a folosit pentru prima data bomba atomica a fost China?</string>
+    <string name="intrebare4">Mihai Viteazu a infaptuit prima unire a Principatelor Romane?</string>
+    <string name="intrebare5">Tabloul \"Cina cea de taina\" a fost pictat de Vincent van Gogh?</string>
+    <string name="intrebare6">Odiseea a fost scrisa de Homer?</string>
+    <string name="intrebare7">Teoria evolutiei este propusa de Darwin?</string>
+    <string name="intrebare8">Roger Federer este un cunoscut jucator de fotbal?</string>
+    <string name="intrebare9">Zlatan Ibrahimovic este din Norvegia?</string>
+    <string name="intrebare10">Un meci de fotbal dureaza 90 de minute?</string>
+
+
+
+</resources>
